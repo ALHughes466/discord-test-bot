@@ -96,4 +96,4 @@ async def coinflip(ctx):
         await ctx.send('Coin landed on tails')
 
 
-client.run('NjMwNTU4MjQwODg3MDEzMzc2.XZqDtw.WkvoW6qTIxK4jKOnMIpPExEca40')
+client.run('token')
